@@ -313,7 +313,7 @@ Create profitability benchmarks for every major product category.
 │   ├── QTR_3_Dashboard.PNG
 │   └── QTR_4_Dashboard.PNG
 ├── Report
-|   └── Project_Report.pdf
+|   └── India FMCG Sales & Profitability Analytics Dashboard.pdf
 ├── Presentation
 |   └── 
 ├── README.md
